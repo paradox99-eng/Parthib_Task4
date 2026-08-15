@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.pic-card {
+    margin: 10vh 25vw 10vh 25vw;
+    line-height: 0;
+}
+
+.pic-card img {
+    width: 100%;
+    height: 65vh;
+}
+
+.pic-card button {
+    color: white;
+    width: 100%;
+    height: 15vh;
+    font-family:Arial, sans-serif;
+    font-size: 2vw;
+    border: none;
+    background: linear-gradient(to right, orange, yellowgreen, green);
+}
